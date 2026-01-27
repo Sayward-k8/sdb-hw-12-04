@@ -9,7 +9,7 @@
 
 # Решение 1
 
-![alt text](https://github.com/Sayward-k8/sdb-hw-12-04/blob/main/img/1.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-04/blob/main/img/1.1.png)
 
 # Задание 2
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
