@@ -37,4 +37,4 @@
 
 # Решение 5
 
-![alt text](https://github.com/Sayward-k8/sdb-hw-12-04/blob/main/img/5.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-04/blob/main/img/6.png)
